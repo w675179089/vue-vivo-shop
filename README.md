@@ -8,12 +8,12 @@
 包下载
 
 安装项目依赖
-npm install 
-
-启动服务 浏览器本地访问 ```http://localhost:8081```
-npm run dev
-
+```npm install  ```
+启动服务 
+```npm run dev```
+浏览器本地访问 
+```http://localhost:8081```
 编译打包
-npm run build
+```npm run build```
 
 ### ps：本地写的时候config下的index.js dev里面的host是我本地电脑的ip 这个地方要换成localhost 端口(port) 是我随便改的8001 可自行修改
