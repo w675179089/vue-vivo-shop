@@ -5,13 +5,15 @@
 
 [效果](http://www.wangxjblog.top/index.html)
 ### 项目安装运行
-# 安装项目依赖
+包下载
+
+安装项目依赖
 npm install 
 
-# 启动服务 浏览器本地访问http://localhost:8080
+启动服务 浏览器本地访问http://localhost:8080
 npm run dev
 
-# 编译打包
+编译打包
 npm run build
 
 ### ps：本地写的时候config下的index.js dev里面的host是我本地电脑的ip 这个地方要换成localhost 端口(port) 是我随便改的8001 可自行修改
