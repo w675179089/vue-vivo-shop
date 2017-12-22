@@ -22,5 +22,5 @@
 编译打包
 
 ```npm run build```
-
+### 喜欢的话请给个Star鼓励一下
 ### ps：本地写的时候config下的index.js dev里面的host是我本地电脑的ip 这个地方要换成localhost 端口(port) 是我随便改的8001 可自行修改
