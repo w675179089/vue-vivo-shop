@@ -4,3 +4,4 @@
 建议在手机或F12手机模式下浏览
 
 [效果](http://www.wangxjblog.top/index.html)
+### ps：本地写的时候config下的index.js dev里面的host是我本地电脑的ip 这个地方要换成localhost 端口(port) 是我随便改的8001 可自行修改
