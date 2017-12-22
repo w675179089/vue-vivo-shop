@@ -10,12 +10,15 @@
 安装项目依赖
 
 ```npm install  ```
+
 启动服务 
 
 ```npm run dev```
+
 浏览器本地访问 
 
 ```http://localhost:8081```
+
 编译打包
 
 ```npm run build```
